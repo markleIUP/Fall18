@@ -1,0 +1,111 @@
+a {
+  text-decoration: none;
+  background-color: white;
+  color: black;
+  border-radius: 4px;
+  width: 90%;
+  font-size: 150%
+}
+
+.old {
+  background-color: grey;
+  color: white;
+  margin-left: 300px;
+  margin-right: 150px;
+  padding: 15px 45px 15px 45px;
+  font-size: 200%
+}
+
+.new {
+  background-color: darkred;
+  color: white;
+  margin-left: 300px;
+  margin-right: 150px;
+  padding: 15px 45px 15px 45px;
+  font-size: 200%
+}
+
+.button {
+  background-color: white;
+  color: black;
+  border-radius: 4px;
+  width: 90%;
+  font-size: 150%
+}
+
+.button:hover {
+  background-color: darkred;
+  color: white;
+}
+
+.questButtons {
+  background-color: darkred;
+  color: white;
+  border-radius: 100%;
+  width: 15%;
+  font-size: 150%;
+  padding: 20px 20px 20px 20px;
+}
+
+.questButtons:hover {
+  background-color: black;
+}
+
+.majorQuestButtons {
+  background-color: black;
+  color: white;
+  border-radius: 100%;
+  width: 15%;
+  font-size: 150%;
+  padding: 20px 20px 20px 20px;
+}
+
+.majorQuestButtons:hover {
+  background-color: darkred;
+}
+
+.majorQuestButtonsBigger {
+  background-color: black;
+  color: white;
+  border-radius: 100%;
+  width: 18%;
+  font-size: 150%;
+  padding: 20px 20px 20px 20px;
+}
+
+.majorQuestButtonsBigger:hover {
+  background-color: darkred;
+}
+
+.backButton {
+  background-color: black;
+  color: white;
+  width: 15%;
+  font-size:150%;
+}
+
+.backButton:hover {
+  background-color: darkred;
+  color: white;
+  width: 15%;
+  font-size:150%;
+}
+
+#menuPanel {
+  background-color: black;
+  text-align: center;
+  height: 100%;
+  width: 250px;
+  padding-top: 150px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+}
+
+#primaryTextPanel {
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+}
