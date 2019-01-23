@@ -67,13 +67,11 @@ These goals will be achieved through play – literally and figuratively – as 
 <br><br><font size='150%'><b>The Grind</b></font><br><br>
 <i>It ain't pretty, but sometimes you need just a little more XP. </i>
 <br><br>
-Read pgs. xx-xx in Bedford and answer the questions on page XX.
+Read pgs. 17-25 in <i>Bedford</i> and do the exercise on page 26.
 <br><br>
 <b>Requirements:</b><br>
 1) Make an attempt!<br>
-2) Answer Question One!<br>
-3) Answer Question Two!<br>
-4) Answer Question Three!<br><br>
+2) Perform the entire exercise!<br>
 <button class='backButton' onclick='quests()'>Back</button>
 </p>
 
@@ -94,12 +92,12 @@ Bring in an example of a favorite narrative from any genre.
 <br><br><font size='150%'><b>Scribe</b></font><br><br>
 <i>Even in the most primitive man, the need to create was in his nature. <br>-Mel Brooks</i>
 <br><br>
-Create a glossary of the key terms defined in Bedford pgs. xx-xx.
+Create a glossary of the key terms defined in Bedford pgs. 17-25: <i>Genre, Common Elements, Style, Design, and Sources</i>
 <br><br>
 <b>Requirements:</b><br>
 1) Make an attempt!<br>
-2) Define half of the terms!<br>
-3) Define all of the terms!<br>
+2) Define all of the terms!<br>
+3) Provide an example of each type of word!<br>
 4) Share your definitions with the class!<br><br>
 <button class='backButton' onclick='quests()'>Back</button></p>
 
