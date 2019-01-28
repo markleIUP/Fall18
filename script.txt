@@ -7,10 +7,6 @@ and lots of it!
 
 <!--
 <p id='oldAnnouncement' class='old'>
-</p>
--->
-
-<p id='newAnnouncement' class='new'>
 <b>01/22/2019</b><br><br>
 Welcome to the class! I'll be setting up your avatars and experience bars post-haste
 to allow you to better track your grades! If you don't already have the text books,
@@ -18,7 +14,17 @@ you might want to hit up the bookstore/library/Amazon/your preferred vendor of c
 and see if you can obtain a copy of the <i>Bedford Guide to Genre</i>.
 <br><br>
 Cheers!<br>
--b</p>
+-b
+</p>
+-->
+
+<p id='newAnnouncement' class='new'>
+<b> 01/28/19</b><br><br>
+Hey all! Just a friendly reminder that <b> The Grind </b> and <b> Scribe </b> are due next Wednesday! You can bring them to class, email them to me, or post them on D2L. 
+<br><br>
+Cheers!<br>
+-b
+</p>
 
 <p id='aboutClass'>
 <br><br><br><br>
