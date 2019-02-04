@@ -10,7 +10,7 @@ $(document).ready( function () {
   <br><br><button class='button' onclick=\"window.location.href='http://writingspaces.org/sites/default/files/writing-spaces-readings-on-writing-vol-1.pdf'\">Writing Spaces, Vol. 1</button>\
   <br><br><button class='button' onclick=\"window.location.href='http://writingspaces.org/sites/default/files/writing-spaces-readings-on-writing-vol-2.pdf'\">Writing Spaces, Vol. 2</button>\
   <br><br><button class='button' onclick=\"window.location.href='https://www.iup.edu/writingcenter/'\">The IUP Writing Center</button>\
-  <br><br><button class='button'>Achievements</button>\
+  <br><br><button class='button' onclick='achievements();'>Achievements</button>\
   <br><br><button class='button' onclick='about()'>About the Course and Contact Mr. B</button>");
 });
 
@@ -141,4 +141,10 @@ function escort4() {
     $('#announcements').html("");
     $('#oldAnnouncements').html("");
     $('#primaryTextPanel').load("script.txt #escortFour");
+}
+
+function achievements() {
+    $('#announcements').html("") ;
+    $('#oldAnnouncements').html("");
+    $('#primaryTextPanel').load("script.txt #achievements");
 }
