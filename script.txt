@@ -7,13 +7,13 @@ and lots of it!
 
 
 <p id='oldAnnouncement' class='old'>
-<b> 01/28/19</b><br><br>
+<b> 01/28/19</b><br>
 Hey all! Just a friendly reminder that <b> The Grind </b> and <b> Scribe </b> are due next Wednesday! You can bring them to class, email them to me, or post them on D2L. 
 <br><br>
 Cheers!<br>
 -b
-<br><br>
-<b>01/22/2019</b><br><br>
+<br><br><br>
+<b>01/22/2019</b><br>
 Welcome to the class! I'll be setting up your avatars and experience bars post-haste
 to allow you to better track your grades! If you don't already have the text books,
 you might want to hit up the bookstore/library/Amazon/your preferred vendor of choice
