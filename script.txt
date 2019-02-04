@@ -5,8 +5,14 @@ and lots of it!
 <font size='200%'>Announcements:</font>
 </p>
 
-<!--
+
 <p id='oldAnnouncement' class='old'>
+<b> 01/28/19</b><br><br>
+Hey all! Just a friendly reminder that <b> The Grind </b> and <b> Scribe </b> are due next Wednesday! You can bring them to class, email them to me, or post them on D2L. 
+<br><br>
+Cheers!<br>
+-b
+<br><br>
 <b>01/22/2019</b><br><br>
 Welcome to the class! I'll be setting up your avatars and experience bars post-haste
 to allow you to better track your grades! If you don't already have the text books,
@@ -16,11 +22,11 @@ and see if you can obtain a copy of the <i>Bedford Guide to Genre</i>.
 Cheers!<br>
 -b
 </p>
--->
+
 
 <p id='newAnnouncement' class='new'>
-<b> 01/28/19</b><br><br>
-Hey all! Just a friendly reminder that <b> The Grind </b> and <b> Scribe </b> are due next Wednesday! You can bring them to class, email them to me, or post them on D2L. 
+<b>02/04/19</b><br><br>
+If you are interested in doing <b>Scouting Trip!</b> or <b>Discerning the Transmundane</b> they are due TONIGHT (Monday, February 4, 2019)!! Note: If you are doing both, only one is due tonight - you can turn in the other at a later date. 
 <br><br>
 Cheers!<br>
 -b
