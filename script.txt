@@ -308,3 +308,12 @@ and should be composed once per week (15 entries total).
 1) Make an attempt!<br>
 2) Show that you have made significant progress on your project by the semester's end <br>("significant" is up to my judgment).<br><br>
 <button class='backButton' onclick='quests()'>Back</button></p>
+
+<p id='achievements'>
+<h2>Putting the Hours In...</h2>
+<br><i>Attend 5 classes in a row</i><br>
+<ul>
+	<li>Test</li>
+</ul>
+
+</p>
