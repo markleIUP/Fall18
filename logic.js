@@ -146,5 +146,5 @@ function escort4() {
 function achievements() {
     $('#announcements').html("") ;
     $('#oldAnnouncements').html("");
-    $('#primaryTextPanel').load("script.txt #achievements");
+    $('#primaryTextPanel').load("script.txt #unlockedAchievements");
 }
