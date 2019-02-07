@@ -309,6 +309,243 @@ and should be composed once per week (15 entries total).
 2) Show that you have made significant progress on your project by the semester's end <br>("significant" is up to my judgment).<br><br>
 <button class='backButton' onclick='quests()'>Back</button></p>
 
+<!--LEVEL 2
+<p id='sideOne'>
+<br><br><font size='150%'><b>The Grind</b></font><br><br>
+<i>It ain't pretty, but sometimes you need just a little more XP. </i>
+<br><br>
+Read pgs. 17-25 in <i>Bedford</i> and do the exercise on page 26.
+<br><br>
+<b>Requirements:</b><br>
+1) Make an attempt!<br>
+2) Perform the entire exercise!<br>
+<button class='backButton' onclick='quests()'>Back</button>
+</p>
+
+<p id='sideTwo'>
+<br><br><font size='150%'><b>Tales of Adventure!<br>(Gather Quest)</b></font><br><br>
+<i>It’s a dangerous business, Frodo, going out your door. You step onto the road, and if you don’t keep your feet, there’s no telling where you might be swept off to.<br>-J.R.R. Tolkien</i>
+<br><br>
+Bring in an example of a favorite narrative from any genre.
+<br><br>
+<b>Requirements:</b><br>
+1) Make an attempt!<br>
+2) Show it to us!<br>
+3) Explain <i>why</i> you like it!<br>
+4) Explain what you think could be better!<br><br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+<p id='sideThree'>
+<br><br><font size='150%'><b>Scribe</b></font><br><br>
+<i>Even in the most primitive man, the need to create was in his nature. <br>-Mel Brooks</i>
+<br><br>
+Create a glossary of the key terms defined in Bedford pgs. 17-25: <i>Genre, Common Elements, Style, Design, and Sources</i>
+<br><br>
+<b>Requirements:</b><br>
+1) Make an attempt!<br>
+2) Define all of the terms!<br>
+3) Provide an example of each type of word!<br>
+4) Share your definitions with the class!<br><br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+<p id='sideFour'>
+<br><br><font size='150%'><b>Upgrade!</b></font><br><br>
+<i>That's not a knife. </i><b>This</b><i> is a knife.<br>-Michael 'Crocodile' Dundee</i>
+<br><br>
+Find a NEW story to fall in love with, of any genre.
+<br><br>
+<b>Requirements:</b><br>
+1) Make an attempt!<br>
+2) Show it to us!<br>
+3) Explain <i>why</i> you like it!<br>
+4) Explain what you think could be better!<br><br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+<p id='sideFive'>
+<br><br><font size='150%'><b>Grammar-ton Cleric</b></font><br><br>
+<i>It's not the message that is important but our obedience to it. <br>-Vice Counsel DuPont</i>
+<br><br>
+Teach the class about a grammatical issue. (I'll provide a list of approved topics if you choose this route.)
+<br><br>
+<b>Requirements:</b><br>
+1) Make an attempt!<br>
+2) Define the problem!<br>
+3) How to avoid the problem!<br>
+4) Answer any questions!<br><br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+<p id='sideSix'>
+<br><br><font size='150%'><b>Gogol Bard-ello</b></font><br><br>
+<i>With a voice wiedling power<br>Of the ancient Nord art<br>Believe, believe<br>The Dragnborn comes</i>
+<br><br>
+Tell the class an interesting story that happened to you.
+<br><br>
+<b>Requirements:</b><br>
+1) Make an attempt!<br>
+2) Regale us!<br>
+3) Answer questions!<br><br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+
+<p id='sideSeven'>
+<br><br><font size='150%'><b>What a Character!</b></font><br><br>
+<i>Nearly all men can stand adversity, but if you want to test a man's character, give him power <br>-Abraham Lincoln</i>
+<br><br>
+Discuss your favorite character in any genre and explain what makes them interesting.
+<br><br>
+<b>Requirements:</b><br>
+1) Make an attempt!<br>
+2) What makes them interesting?<br>
+3) What are their weaknesses?<br><br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+
+<p id='sideEight'>
+<br><br><font size='150%'><b>You ever been to Middle-earth?</b></font><br><br>
+<i>In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the <br>
+ends of worms and an oozy smell,nor yet a dry, bare, sandy hole with nothing in it to sit down on <br>
+or to eat: it was a hobbit-hole, and that means comfort.<br>-J.R.R. Tolkien</i>
+<br><br>
+Discuss your favorite location in any genre and explain what makes it interesting.
+<br><br>
+<b>Requirements:</b><br>
+1) Make an attempt!<br>
+2) What makes this place interesting?<br>
+3) How is it revealed to the audience?<br><br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+
+<p id='majorOne'>
+<br><br><font size='150%'><b>Scouting Trip!</b></font><br><br>
+<i>Legolas, what do your elf eyes see? <br>-Aragorn</i>
+<br><br>
+Find three humans or locations on campus and write a one paragraph description of them.
+If you choose humans, decide a motive for them.
+<br><br>
+<b>Requirements:</b><br>
+1) Make an attempt!<br>
+2) Provide a physical description!<br>
+3) Define a motive for them (humans) or use imagery (location)<br><br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+
+<p id='majorTwo'>
+<br><br><font size='150%'><b>Sage (Timed Quest)</b></font><br><br>
+<i>People pretend not to like grapes when the vines are too high for them to reach.<br>-Marguerit de Navarre</i>
+<br><br>
+Lead a class discussion on one of the elements of narrative writing: Plot, Characterization, Description and Imagery (Note: Can be done as a group).
+<br><br>
+<b>Requirements:</b><br>
+1) Make an attempt!<br>
+2) Define the element!<br>
+3) Discuss how we as writers can incorporate this element into our own writing!<br>
+4) Lead a Q & A after the presentation<br><br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+
+<p id='majorThree'>
+<br><br><font size='150%'><b>Discerning the Transmundane</b></font><br><br>
+<i>Septimus is clever among men, but he is but an idiot child compared to the dullest of the Dwemer.<br>-Septimus Signus</i>
+<br><br>
+Close read <b>three</b> characters in any genre and figure out how, specifically, the author made that character interesting (or dull).
+<br><br>
+<b>Requirements:</b><br>
+1) Make an attempt!<br>
+2) Discuss the physical description of the character!<br>
+3) Discuss their motive!<br>
+4) Discuss how the character changes (or doesn't) throughout the narrative!<br><br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+
+<p id='majorFour'>
+<br><br><font size='150%'><b>Transcending the Mundane</b></font><br><br>
+<i>In a culture like ours, long accustomed to splitting and dividing all things as a means of control, it is sometimes a bit of a shock to be reminded that,
+in operational and practical fact, the medium is the message. <br>-Marshall McLuhan</i>
+<br><br>Compare a written narrative to its multimedia counterpart (e.g., book to film adaptation). Compose a three paragraph discussion considering
+what happens to the characters, plot, and location during this shift.
+<br><br>
+<b>Requirements:</b><br>
+1) Make an attempt!<br>
+2) Discuss what changes occur in the characters!<br>
+3) Discuss what changes occur in the plot!<br>
+4) Discuss what changes occur in the location!<br><br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+<p id='majorFive'>
+<br><br><font size='150%'><b>Say Hello to My Little Friend!</b></font><br><br>
+<i>Say, "Hello!" to my little friend! <br>-Scarface</i>
+<br><br><b> Quest Requirement:</b> You must participate in the <b>Firestarter</b> quest AND
+form a party to accept this quest.
+<br><br> Upload a copy of your <b>Firestarter</b> rough draft to D2L. Then, read and respond to another of your party members' stories, taking into account
+the rough draft discussion we held in class.
+<br><br>
+<b>Requirements:</b><br>
+1) Make an attempt!<br>
+2) Offer a few suggestions for what they can improve!<br>
+3) Tell them what they are doing well!<br>
+4) Ask at least TWO questions about plot, character, location, or prose!<br><br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+<p id='epicOne'>
+<br><br><font size='150%'><b>Firestarter</b></font><br><br>
+<i>True happiness comes from the joy of deeds well done, the zest of creating things new. -Antoine de Saint-Exupery</i>
+<br><br>Compose a 2-3 page story relating a major event in your life. Your tale should have interesting characters with motives, vivid descriptions of place, and a thesis (also known as having a
+		point.)
+<br><br>
+<b>Requirements:</b><br>
+1) Make an attempt!<br>
+2) Turn in a rough draft! (Due date TBD)<br>
+3) Have at least three characters with motives!<br>
+4) Have a thesis (point)!<br><br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+
+<p id='escortOne'>
+<br><br><font size='150%'><b>Recording History</b></font><br><br>
+<i>Everything not saved will be lost. <br> -Nintendo Save Screen</i>
+<br><br>Keep a running journal throughout the entire semester. You may write whatever you want in your journal. All entries should be at least 300 words long
+and should be composed once per week (15 entries total).
+<br><br>
+<b>Requirements:</b><br>
+1) Make an attempt!<br>
+2) Complete half the entries (8)!<br>
+3) Complete all 15 entries!<br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+<p id='escortTwo'>
+<br><br><font size='150%'><b>Broaden Your Horizons</b></font><br><br>
+<i>The man who does not read good books has no advantage over the man who can't read them.<br> -Mark Twain (unverified)</i>
+<br><br>Read either two novels or fifteen short stories over the course of the semester that are not required by any of your classes.
+<br><br>
+<b>Requirements:</b><br>
+1) Make an attempt!<br>
+2) Read a novel! or half of the short stories (8)!<br>
+3) Read two novels! or all fifteen short stories!<br><br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+<p id='escortThree'>
+<br><br><font size='150%'><b>Start Something Big...</b></font><br><br>
+<i>Just do it. <br>-Nike commercial</i>
+<br><br>Begin the creation of a substantial creative work over the course of the semester. This can include (but is not limited to):<br><br>
+
+  - Several chapters of the novel you are writing<br>
+  - A collection of short stories you are hoping to publish<br>
+  - A collection of poetry to be published in a chap book<br>
+  - A documentary film<br>
+  - Several episodes of a podcast or YouTube channel you are working on<br>
+  - Initial design documents for a video game<br>
+  - Several acts of a play/television/film you are writing<br>
+  - Several chapters of your graphic novel<br>
+  - Any other creative endeavor you can think of (with my approval)
+
+<br><br>
+<b>Requirements:</b><br>
+1) Make an attempt!<br>
+2) Show that you have made significant progress on your project by the semester's end <br>("significant" is up to my judgment).<br><br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+-->
+
+
 <p id='unlockedAchievements'>
 <h2>Putting the Hours In...</h2>
 <!--<br><i>Attend 5 classes in a row</i><br>
