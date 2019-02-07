@@ -146,5 +146,5 @@ function escort4() {
 function achieve() {
     $('#announcements').html("") ;
     $('#oldAnnouncements').html("");
-    $('#primaryTextPanel').html("Test!");
+    $('#primaryTextPanel').load("script.txt #achievem");
 }
