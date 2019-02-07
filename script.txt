@@ -311,7 +311,7 @@ and should be composed once per week (15 entries total).
 
 <p id='achievem'>
 <h2>Putting the Hours In...</h2>
-<!--<br><i>Attend 5 classes in a row</i><br>
+<br><i>Attend 5 classes in a row</i><br>
 <ul>
 	<li>Test</li>
 </ul>
