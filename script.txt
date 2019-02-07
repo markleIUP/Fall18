@@ -309,6 +309,10 @@ and should be composed once per week (15 entries total).
 2) Show that you have made significant progress on your project by the semester's end <br>("significant" is up to my judgment).<br><br>
 <button class='backButton' onclick='quests()'>Back</button></p>
 
+<p id='achievem'>
+This is a test!
+</p>
+
 <!--LEVEL 2
 <p id='sideOne'>
 <br><br><font size='150%'><b>The Grind</b></font><br><br>
