@@ -7,6 +7,11 @@ and lots of it!
 
 
 <p id='oldAnnouncement' class='old'>
+<b>02/06/2019</b><br>
+Heads up! The epic quest <b>Firestarter</b> is due <b>one week</b> from now! Consider getting started on this sooner rather than later! Also, remember that "alternative" forms of essay are totally acceptable, e.g., comics, podcasts, etc.
+<br><br>
+Cheers!<br>
+-b
 <b>02/04/19</b><br>
 If you are interested in doing <b>Scouting Trip!</b> or <b>Discerning the Transmundane</b> they are due TONIGHT (Monday, February 4, 2019)!! Note: If you are doing both, only one is due tonight - you can turn in the other at a later date. 
 <br><br>
@@ -31,11 +36,11 @@ Cheers!<br>
 
 
 <p id='newAnnouncement' class='new'>
-<b>02/06/2019</b><br><br>
-Heads up! The epic quest <b>Firestarter</b> is due <b>one week</b> from now! Consider getting started on this sooner rather than later! Also, remember that "alternative" forms of essay are totally acceptable, e.g., comics, podcasts, etc.
-<br><br>
+<b>02/11/2019</b><br>
+Hey all! Do try to remember to bring as much of your Firestarter project to class with you today!<br><br>
 Cheers!<br>
 -b
+
 </p>
 
 <p id='aboutClass'>
