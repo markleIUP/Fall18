@@ -57,6 +57,33 @@ These goals will be achieved through play – literally and figuratively – as 
  <iframe src="https://docs.google.com/spreadsheets/d/1eajuUa67J4J1px_WrVpmeJZhveRGYWVSjKdH2g4AihY/edit?usp=sharing" height='1000px' width=1500px></iframe>
 </p>
 
+<!--
+<p id='quests'>
+<br><br><b> <font size='200%'>Stage 2: Persuasion</font>
+<br><br><br><br><b>Side Quests (20 XP each)</b><br>
+<button class='questButtons' onclick='side1()';> The Grind</button>
+<button class='questButtons' onclick='side2()';> Tales of Adventure</button>
+<button class='questButtons' onclick='side3()';> Scribe</button>
+<button class='questButtons' onclick='side4()';> Grammar-ton Cleric</button>
+<button class='questButtons' onclick='side5()';> Gogol Bard-ello</button><br><br>
+<button class='questButtons' onclick='side6()';> What a Character</button>
+<button class='questButtons' onclick='side7()';> You Ever Been to Middle Earth?</button>
+<br><br><br>
+<b>Major Quests (50 XP each)</b><br>
+<button class='majorQuestButtons' onclick='major1()';> Scouting Trip!</button>
+<button class='majorQuestButtons' onclick='major2()';> Sage (Timed Quest)</button>
+<button class='majorQuestButtonsBigger' onclick='major3()';>Discerning the Transmundane</button>
+<button class='majorQuestButtons' onclick='major4()';> Transcending the Mundane</button>
+<button class='majorQuestButtons' onclick='major5()';>Say Hello to My Little Friend!</button>
+<b>Epic Quest (300 XP)</b><br>
+<button class='questButtons' onclick='epic1()';> Firestarter</button><br><br><br>
+<b>Escort Quests (100 XP each, may only attempt ONE Escort Quest per semester)</b><br>
+<button class='majorQuestButtons' onclick='escort1()';> Recording History</button>
+<button class='majorQuestButtons' onclick='escort2()';> Broaden Your Horizons</button>
+<button class='majorQuestButtons' onclick='escort3()';> Start Something Big...</button>
+</p>
+-->
+
 <p id='quests'>
 <br><br><b> <font size='200%'>Stage 2: Persuasion</font>
 <br><br><br><br><b>Side Quests (20 XP each)</b><br>
