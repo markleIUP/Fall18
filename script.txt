@@ -272,7 +272,7 @@ the rough draft discussion we held in class.
 3) Have at least three characters with motives!<br>
 4) Have a thesis (point)!<br><br>
 <button class='backButton' onclick='quests()'>Back</button></p>
-
+-->
 
 <p id='escortOne'>
 <br><br><font size='150%'><b>Recording History</b></font><br><br>
@@ -317,7 +317,7 @@ and should be composed once per week (15 entries total).
 1) Make an attempt!<br>
 2) Show that you have made significant progress on your project by the semester's end <br>("significant" is up to my judgment).<br><br>
 <button class='backButton' onclick='quests()'>Back</button></p>
--->
+
 
 
 LEVEL 2
