@@ -26,8 +26,6 @@ a {
 }
 
 .button {
-  display: block;
-  float: left;
   background-color: white;
   color: black;
   border-radius: 4px;
@@ -41,8 +39,6 @@ a {
 }
 
 .questButtons {
-    display: block;
-  float: left;
   background-color: darkred;
   color: white;
   border-radius: 100%;
@@ -56,8 +52,6 @@ a {
 }
 
 .majorQuestButtons {
-  display: block;
-  float: left;
   background-color: black;
   color: white;
   border-radius: 100%;
@@ -71,8 +65,6 @@ a {
 }
 
 .majorQuestButtonsBigger {
-  display: block;
-  float: left;
   background-color: black;
   color: white;
   border-radius: 100%;
@@ -86,8 +78,6 @@ a {
 }
 
 .backButton {
-  display: block;
-  float: left;
   background-color: black;
   color: white;
   width: 15%;
