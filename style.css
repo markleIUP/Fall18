@@ -42,7 +42,6 @@ a {
   background-color: darkred;
   color: white;
   border-radius: 100%;
-  width: 15%;
   font-size: 150%;
   padding: 20px 20px 20px 20px;
 }
@@ -55,7 +54,6 @@ a {
   background-color: black;
   color: white;
   border-radius: 100%;
-  width: 15%;
   font-size: 150%;
   padding: 20px 20px 20px 20px;
 }
@@ -68,7 +66,6 @@ a {
   background-color: black;
   color: white;
   border-radius: 100%;
-  width: 18%;
   font-size: 150%;
   padding: 20px 20px 20px 20px;
 }
@@ -80,14 +77,12 @@ a {
 .backButton {
   background-color: black;
   color: white;
-  width: 15%;
   font-size:150%;
 }
 
 .backButton:hover {
   background-color: darkred;
   color: white;
-  width: 15%;
   font-size:150%;
 }
 
