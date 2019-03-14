@@ -7,8 +7,6 @@ and lots of it!
 
 
 <p id='oldAnnouncement' class='old'>
-
-<p id='newAnnouncement' class='new'>
 <b>02/20/2019</b><br><br>
 The official <b>due dates</b> for ALL Level 2 quests (excluding Escort Quests) is the Friday before Spring Break (03/08/2019). The only exceptions are <b>Wizened Sage, Pacifist Run, </b> and <b>Twelve Angry Men</b>.<br><br>
 Cheers!<br>
@@ -125,22 +123,20 @@ These goals will be achieved through play – literally and figuratively – as 
 <br><br><b> <font size='200%'>Stage 3: Research</font>
 <br><br><br><br><b>Side Quests (20 XP each)</b><br>
 <button class='questButtons' onclick='side1()';> The Grind, Part Trois</button>
-<button class='questButtons' onclick='side2()';> That's Just, Like, Your Opinion Man</button>
-<button class='questButtons' onclick='side3()';> Scribe-tastic</button>
-<button class='questButtons' onclick='side4()';> Pacifist Run</button>
-<button class='questButtons' onclick='side5()';> Grammar-ton Cleric</button><br><br>
-<button class='questButtons' onclick='side6()';> Gondor Calls for Aid!</button>
-<button class='questButtons' onclick='side7()';> Cheat Codes</button>
-<button class='questButtons' onclick='side8()';> Devil's Advocate</button><br><br><br>
+<button class='questButtons' onclick='side2()';> Test Your (Heavy) Mettle</button>
+<button class='questButtons' onclick='side3()';> House of Leaves</button>
+<button class='questButtons' onclick='side4()';> Grammarton Cleric</button>
+<button class='questButtons' onclick='side5()';> APAthy is the Enemy</button><br><br>
+<button class='questButtons' onclick='side6()';> Devoted Acolyte</button>
+<button class='questButtons' onclick='side7()';> Altered Beast</button><br><br><br>
 <b>Major Quests (50 XP each)</b><br>
-<button class='majorQuestButtons' onclick='major1()';> Playin' You LIke a Fool!</button>
-<button class='majorQuestButtons' onclick='major2()';> Wizened Sage (Timed Quest)</button>
-<button class='majorQuestButtonsBigger' onclick='major3()';> The Medium is the Message</button>
-<button class='majorQuestButtons' onclick='major4()';> Consult the Oracle</button>
-<button class='majorQuestButtons' onclick='major5()';>Insert Another Quarter</button>
-<button class='majorQuestButtons' onclick='major6()';>Twelve Angry Men</button><br><br><br>
+<button class='majorQuestButtons' onclick='major1()';> Wheatley and Caroline</button>
+<button class='majorQuestButtons' onclick='major2()';> Scouting Wisps</button>
+<button class='majorQuestButtons' onclick='major3()';> (Don't Use) Cheat Codes</button>
+<button class='majorQuestButtons' onclick='major4()';> Insert (Yet Another) Quarter</button>
+<button class='majorQuestButtons' onclick='major5()';>Lend Me Your Ears</button><br><br><br>
 <b>Epic Quest (300 XP)</b><br>
-<button class='questButtons' onclick='epic1()';> Dark Samus</button><br><br><br>
+<button class='questButtons' onclick='epic1()';> Curiouser and Curiouser</button><br><br><br>
 <b>Escort Quests (100 XP each, may only attempt ONE Escort Quest per semester)</b><br>
 <button class='majorQuestButtons' onclick='escort1()';> Recording History</button>
 <button class='majorQuestButtons' onclick='escort2()';> Broaden Your Horizons</button>
