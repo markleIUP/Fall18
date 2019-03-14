@@ -374,8 +374,7 @@ and should be composed once per week (15 entries total).
 2) Show that you have made significant progress on your project by the semester's end <br>("significant" is up to my judgment).<br><br>
 <button class='backButton' onclick='quests()'>Back</button></p>
 
-
-
+<!--
 LEVEL 2
 <p id='sideOne'>
 <br><br><font size='150%'><b>The Grind, Part Deux</b></font><br><br>
@@ -570,12 +569,171 @@ Participate in the class debate.
 3) Have at least one example of each rhetorical appeal (logos, mythos, pathos, ethos)!<br>
 4) Provide a short explanation of whether you consider your own argument to be persuasive!<br><br>
 <button class='backButton' onclick='quests()'>Back</button></p>
-
-<p id='unlockedAchievements'>
-<h2>Putting the Hours In...</h2>
-<!--<br><i>Attend 5 classes in a row</i><br>
-<ul>
-	<li>Test</li>
-</ul>
 -->
+
+<!--LEVEL 2-->
+<p id='sideOne'>
+<br><br><font size='150%'><b>The Grind, Part Trois</b></font><br><br>
+<i>Wooho! Overtime! <br>SCV,</i> Starcraft iI
+<br><br>
+Read the chapter on Persuasive writing in <i>Bedford</i> and do the following exercise:
+<br>
+XXXXX<br><br>
+<b>Requirements:</b><br>
+1) Make an attempt!<br>
+2) Perform the entire exercise!<br>
+<button class='backButton' onclick='quests()'>Back</button>
 </p>
+
+<p id='sideTwo'>
+<br><br><font size='150%'><b>Test Your (Heavy) Mettle <br>(Gather Quest)</b></font><br><br>
+<i>This is not the greatest song in the world, no. This is a tribute.<br>-Tenacious D</i>
+<br><br>Take the quiz located on D2L regarding research
+<br><br>
+<b>Requirements:</b><br>
+1) Make an attempt!<br>
+2) Get a score!
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+<p id='sideThree'>
+<br><br><font size='150%'><b>House of Leaves</b></font><br><br>
+<i>But here "uncanniness" also means "not-being-at-home" [das Nicht-zuhause-sein].<br>-Johnny Turant</i>
+<br><br>
+Find two articles about the same topic - one located on an extremely liberal and one on an extremely conservative news site. Make a list of what makes each one "reputable" and "questionable."
+<br><br>
+<b>Requirements:</b><br>
+1) Make an attempt!<br>
+2) Provide two examples<br>
+3) Analyze the liberal version<br>
+4) Analyze the conservative version<br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+<p id='sideFour'>
+<br><br><font size='150%'><b>Grammarton Cleric</b></font><br><br>
+<i>No. Not without incident. <br>-John Preston</i>
+<br><br>
+Teach the class about a grammatical issue. (I'll provide a list of approved topics if you choose this route.)
+<br><br>
+<b>Requirements:</b><br>
+1) Make an attempt!<br>
+2) Define the problem!<br>
+3) How to avoid the problem!<br>
+4) Answer any questions!<br><br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+<p id='sideFive'>
+<br><br><font size='150%'><b>APAthy is the Enemy</b></font><br><br>
+<i>Idle hands are the Devil's playground<br>-Isaac Watts(ish)</i>
+<br><br>
+Make a list of the differences between APA and MLA.<br><br>
+<b>Requirements:</b><br>
+1) Make an attempt!<br>
+2) Outline MOST of the differences
+3) Find ALL of them!
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+<p id='sideSix'>
+<br><br><font size='150%'><b>Davoted Acolyte</b></font><br><br>
+<i>The Lord of Goats! I might have to work on the title a bit more...<br>-Cultist,</i> Diablo III
+<br><br>Attend the workshop at the library on the 29th.
+<br><br>
+<b>Requirements:</b><br>
+1) Do it.
+</p>
+
+<p id='sideSeven'>
+<br><br><font size='150%'><b>Altered Beast</b></font><br><br>
+<i>Rise from your grave!<br>-Zeus</i>
+<br><br>
+ Find (LEGIT!) research for your <b>Curiouser and Curiouser!</b> topic in an alternate format from text.<br><br>
+<b>Requirements:</b><br>
+1) Make an attempt!<br>
+2) Explain what the alternate format brings to the research<br>
+3) Show us!<br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+<p id='majorOne'>
+<br><br><font size='150%'><b>Wheatley and GladOS</b></font><br><br>
+<i>Oh, hi. How are you holding up? Because I'm a potato.<br>-GladOS (Caroline)</i>
+<br><br>
+Compose one page defining what a secondary source is. Compose one more page defining a primary source.<br><br>
+<b>Requirements:</b><br>
+1) Make an attempt!<br>
+2) Compose one page defining a secondary source.<br>
+3) Compose one page defining a primary source.<br><br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+
+<p id='majorTwo'>
+<br><br><font size='150%'><b>Scouting Wisps</b></font><br><br>
+<i>The forest Gods are odd creatures<br>-Kharazim</i>
+<br><br>
+Create an annotated bibliography of three sources you'll be using for your <b>Curiouser and Curiouser!</b>.<br><br>
+<b>Requirements:</b><br>
+1) Make an attempt!<br>
+2) Find three sources<br>
+3) Summarize them.<br>
+4) Describe how they will (or will not) be useful to your paper.<br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+
+<p id='majorThree'>
+<br><br><font size='150%'><b>(Don't Use) Cheat Codes</b></font><br><br>
+<i>Up, up, down, down, left, right, left, right, B, A, Start <br>-Konami Cheat Code</i>
+<br><br>
+Create a "text" that demonstrates five ways one can plagiarize and provide some examples of how to avoid it.<br><br>
+<b>Requirements:</b><br>
+1) Make an attempt!<br>
+2) Provide 5 examples<br>
+3) Discuss how to avoid plagiarism<br>
+4) Share it!<br>
+<br><br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+
+<p id='majorFour'>
+<br><br><font size='150%'><b>Insert (Yet Another) Quarter</b></font><br><br>
+<i>Inflation is a bitch.<br>-#TrueStory</i><br><br>
+Visit my office (or make an appointment) to close read/edit your Firestarter paper.
+<br><br>
+<b>Requirements:</b><br>
+1) Show up!<br>
+2) Listen!<br><br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+<p id='majorFive'>
+<br><br><font size='150%'><b>Insert Another Quarter</b></font><br><br>
+<i>Game Over. Play Again? </i>
+<br><br>
+Substantially revise your Firestarter essay.
+<br><br>
+<b>Requirements:</b><br>
+1) Make an attempt!<br>
+2) Make brief notes about what you changed.<br>
+3) Offer a rationale for <i>why</i> you changed those parts.<br>
+<br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+<p id='majorSix'>
+<br><br><font size='150%'><b>Twelve Angry Men</b></font><br><br>
+<i>I just want to talk <br>-Juror #8</i>
+<br><br>
+Participate in the class debate.
+<br><br>
+<b>Requirements:</b><br>
+1) Specific requirements will be handed out/discussed prior to the occasion.<br>
+<br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+
+<p id='epicOne'>
+<br><br><font size='150%'><b>Dark Samus</b></font><br><br>
+<i>My past is not a memory. It's a force at my back. <br>-Samus Aran</i>
+<br><br>In 2-3 pages (or whatever format you chose), argue against something you believe in, employing the techniques of rhetoric we have studied this level.
+<br><br>
+<b>Requirements:</b><br>
+1) Make an attempt!<br>
+2) Turn in a rough draft! (Due date TBD)<br>
+3) Have at least one example of each rhetorical appeal (logos, mythos, pathos, ethos)!<br>
+4) Provide a short explanation of whether you consider your own argument to be persuasive!<br><br>
+<button class='backButton' onclick='quests()'>Back</button></p>
