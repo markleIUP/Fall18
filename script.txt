@@ -633,12 +633,12 @@ Make a list of the differences between APA and MLA.<br><br>
 <button class='backButton' onclick='quests()'>Back</button></p>
 
 <p id='sideSix'>
-<br><br><font size='150%'><b>Davoted Acolyte</b></font><br><br>
+<br><br><font size='150%'><b>Devoted Acolyte</b></font><br><br>
 <i>The Lord of Goats! I might have to work on the title a bit more...<br>-Cultist,</i> Diablo III
 <br><br>Attend the workshop at the library on the 29th.
 <br><br>
 <b>Requirements:</b><br>
-1) Do it.
+1) Do it.<br>
 </p>
 
 <p id='sideSeven'>
