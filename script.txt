@@ -628,7 +628,7 @@ Teach the class about a grammatical issue. (I'll provide a list of approved topi
 Make a list of the differences between APA and MLA.<br><br>
 <b>Requirements:</b><br>
 1) Make an attempt!<br>
-2) Outline MOST of the differences
+2) Outline MOST of the differences<br>
 3) Find ALL of them!<br>
 <button class='backButton' onclick='quests()'>Back</button></p>
 
