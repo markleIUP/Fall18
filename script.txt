@@ -629,7 +629,7 @@ Make a list of the differences between APA and MLA.<br><br>
 <b>Requirements:</b><br>
 1) Make an attempt!<br>
 2) Outline MOST of the differences
-3) Find ALL of them!
+3) Find ALL of them!<br>
 <button class='backButton' onclick='quests()'>Back</button></p>
 
 <p id='sideSix'>
