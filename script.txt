@@ -121,7 +121,7 @@ These goals will be achieved through play – literally and figuratively – as 
 <br><br><b> <font size='200%'>Stage 3: Research</font>
 <br><br><br><br><b>Side Quests (20 XP each)</b><br>
 <button class='questButtons' onclick='side1()';> The Grind, Part Trois</button>
-<button class='questButtons' onclick='side2()';> Test Your (Heavy) Mettle</button>
+<button class='questButtons' onclick='side2()';> Test Your (Heavy) </button>
 <button class='questButtons' onclick='side3()';> House of Leaves</button>
 <button class='questButtons' onclick='side4()';> Grammarton Cleric</button>
 <button class='questButtons' onclick='side5()';> APAthy is the Enemy</button><br><br>
@@ -592,7 +592,7 @@ XXXXX<br><br>
 <br><br>
 <b>Requirements:</b><br>
 1) Make an attempt!<br>
-2) Get a score!
+2) Get a score!<br>
 <button class='backButton' onclick='quests()'>Back</button></p>
 
 <p id='sideThree'>
