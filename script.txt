@@ -586,7 +586,7 @@ XXXXX<br><br>
 </p>
 
 <p id='sideTwo'>
-<br><br><font size='150%'><b>Test Your (Heavy) Mettle <br>(Gather Quest)</b></font><br><br>
+<br><br><font size='150%'><b>Test Your (Heavy) Mettle</b></font><br><br>
 <i>This is not the greatest song in the world, no. This is a tribute.<br>-Tenacious D</i>
 <br><br>Take the quiz located on D2L regarding research
 <br><br>
@@ -694,11 +694,11 @@ Create a "text" that demonstrates five ways one can plagiarize and provide some 
 <p id='majorFour'>
 <br><br><font size='150%'><b>Insert (Yet Another) Quarter</b></font><br><br>
 <i>Inflation is a bitch.<br>-#TrueStory</i><br><br>
-Visit my office (or make an appointment) to close read/edit your Firestarter paper.
+Substantially revise your Dark Samus essay. 
 <br><br>
 <b>Requirements:</b><br>
-1) Show up!<br>
-2) Listen!<br><br>
+1) Make an attempt. <br>
+2) Make some substantial changes.<br>
 <button class='backButton' onclick='quests()'>Back</button></p>
 
 <p id='majorFive'>
