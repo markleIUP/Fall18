@@ -128,7 +128,7 @@ These goals will be achieved through play – literally and figuratively – as 
 <button class='questButtons' onclick='side6()';> Devoted Acolyte</button>
 <button class='questButtons' onclick='side7()';> Altered Beast</button><br><br><br>
 <b>Major Quests (50 XP each)</b><br>
-<button class='majorQuestButtons' onclick='major1()';> Wheatley and Caroline</button>
+<button class='majorQuestButtons' onclick='major1()';> Wheatley and GladOS</button>
 <button class='majorQuestButtons' onclick='major2()';> Scouting Wisps</button>
 <button class='majorQuestButtons' onclick='major3()';> (Don't Use) Cheat Codes</button>
 <button class='majorQuestButtons' onclick='major4()';> Insert (Yet Another) Quarter</button>
@@ -702,38 +702,25 @@ Substantially revise your Dark Samus essay.
 <button class='backButton' onclick='quests()'>Back</button></p>
 
 <p id='majorFive'>
-<br><br><font size='150%'><b>Insert Another Quarter</b></font><br><br>
-<i>Game Over. Play Again? </i>
-<br><br>
-Substantially revise your Firestarter essay.
+<br><br><font size='150%'><b>Lend Me Your Ears</b></font><br><br>
+<i>Friends. Romans. Countrymen. Lend me your ears!<br>-Brutus,</i> Julius Caesar
+<br><br>Using the newly-discovered information you have come across while doing your research, teach the class about what you have learned. 
 <br><br>
 <b>Requirements:</b><br>
 1) Make an attempt!<br>
-2) Make brief notes about what you changed.<br>
-3) Offer a rationale for <i>why</i> you changed those parts.<br>
+2) Create some sort of visual to help explain what you've learned.<br>
+3) Endure a Q + A session afterwards.<br>
 <br>
 <button class='backButton' onclick='quests()'>Back</button></p>
-
-<p id='majorSix'>
-<br><br><font size='150%'><b>Twelve Angry Men</b></font><br><br>
-<i>I just want to talk <br>-Juror #8</i>
-<br><br>
-Participate in the class debate.
-<br><br>
-<b>Requirements:</b><br>
-1) Specific requirements will be handed out/discussed prior to the occasion.<br>
-<br>
-<button class='backButton' onclick='quests()'>Back</button></p>
-
 
 <p id='epicOne'>
-<br><br><font size='150%'><b>Dark Samus</b></font><br><br>
-<i>My past is not a memory. It's a force at my back. <br>-Samus Aran</i>
-<br><br>In 2-3 pages (or whatever format you chose), argue against something you believe in, employing the techniques of rhetoric we have studied this level.
+<br><br><font size='150%'><b>Curiouser and curiouser!</b></font><br><br>
+<i>“Curiouser and curiouser!” Cried Alice (she was so much surprised, that for the moment she quite forgot how to speak good English).” <br>-Lewis Carroll</i>
+<br><br>In 2-3 pages create a research-driven <b>ESSAY</b> that explains something you have always wanted to learn more about, but have never had the time (or inclination) to do it. The topic is entirely up to you, but it must be something which you are not familiar with already. The essay must adhere to MLA standards, must contain at least three sources (one of which must be a book or journal obtained from the library), and must have a Works Cited page. 
 <br><br>
 <b>Requirements:</b><br>
 1) Make an attempt!<br>
-2) Turn in a rough draft! (Due date TBD)<br>
-3) Have at least one example of each rhetorical appeal (logos, mythos, pathos, ethos)!<br>
-4) Provide a short explanation of whether you consider your own argument to be persuasive!<br><br>
+2) Adhere to MLA standards.<br>
+3) Have a Works Cited page and three sources (One obtained from the library).<br>
+4) Compose 3 full pages!<br><br>
 <button class='backButton' onclick='quests()'>Back</button></p>
