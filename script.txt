@@ -331,7 +331,7 @@ the rough draft discussion we held in class.
 -->
 
 <p id='escortOne'>
-<br><br><font size='150%'><b>Recording History</b></font><br><br>
+<br><br><b><font size='150%'>Recording History</font></b><br><br>
 <i>Everything not saved will be lost. <br> -Nintendo Save Screen</i>
 <br><br>Keep a running journal throughout the entire semester. You may write whatever you want in your journal. All entries should be at least 300 words long
 and should be composed once per week (15 entries total).
