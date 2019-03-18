@@ -571,7 +571,7 @@ Participate in the class debate.
 <button class='backButton' onclick='quests()'>Back</button></p>
 -->
 
-<!--LEVEL 2-->
+<!--LEVEL 3-->
 <p id='sideOne'>
 <br><br><font size='150%'><b>The Grind, Part Trois</b></font><br><br>
 <i>Wooho! Overtime! <br>SCV,</i> Starcraft iI
@@ -639,7 +639,7 @@ Make a list of the differences between APA and MLA.<br><br>
 <br><br>
 <b>Requirements:</b><br>
 1) Do it.<br>
-</p>
+<button class='backButton' onclick='quests()'>Back</button></p>
 
 <p id='sideSeven'>
 <br><br><font size='150%'><b>Altered Beast</b></font><br><br>
