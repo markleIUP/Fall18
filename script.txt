@@ -117,6 +117,7 @@ These goals will be achieved through play – literally and figuratively – as 
 <button class='majorQuestButtons' onclick='escort3()';> Start Something Big...</button>
 </p>
 -->
+<!--
 <p id='quests'>
 <br><br><b> <font size='200%'>Stage 3: Research</font>
 <br><br><br><br><b>Side Quests (20 XP each)</b><br>
@@ -135,6 +136,21 @@ These goals will be achieved through play – literally and figuratively – as 
 <button class='majorQuestButtons' onclick='major5()';>Lend Me Your Ears</button><br><br><br>
 <b>Epic Quest (300 XP)</b><br>
 <button class='questButtons' onclick='epic1()';> Curiouser and Curiouser</button><br><br><br>
+<b>Escort Quests (100 XP each, may only attempt ONE Escort Quest per semester)</b><br>
+<button class='majorQuestButtons' onclick='escort1()';> Recording History</button>
+<button class='majorQuestButtons' onclick='escort2()';> Broaden Your Horizons</button>
+<button class='majorQuestButtons' onclick='escort3()';> Start Something Big...</button>
+-->
+
+<br><br><b> <font size='200%'>Stage 4: Fusion</font>
+<br><br>
+<b>Major Quests (50 XP each)</b><br>
+<button class='majorQuestButtons' onclick='major1()';> Wonderful Toys</button>
+<button class='majorQuestButtons' onclick='major2()';> Warp Speed Level 1</button>
+<button class='majorQuestButtons' onclick='major3()';> Warp Speed Level 2</button>
+<button class='majorQuestButtons' onclick='major4()';> Warp Speed Level 3</button><br><br>
+<b>Epic Quest (300 XP)</b><br>
+<button class='questButtons' onclick='epic1()';> The Long Farewell</button><br><br><br>
 <b>Escort Quests (100 XP each, may only attempt ONE Escort Quest per semester)</b><br>
 <button class='majorQuestButtons' onclick='escort1()';> Recording History</button>
 <button class='majorQuestButtons' onclick='escort2()';> Broaden Your Horizons</button>
@@ -571,6 +587,7 @@ Participate in the class debate.
 <button class='backButton' onclick='quests()'>Back</button></p>
 -->
 
+<!--
 <!--LEVEL 3-->
 <p id='sideOne'>
 <br><br><font size='150%'><b>The Grind, Part Trois</b></font><br><br>
@@ -723,4 +740,65 @@ Substantially revise your Dark Samus essay.
 2) Adhere to MLA standards.<br>
 3) Have a Works Cited page and three sources (One obtained from the library).<br>
 4) Compose 3 full pages!<br><br>
+<button class='backButton' onclick='quests()'>Back</button></p> 
+-->
+
+<!--LEVEL 4-->
+
+<p id='majorOne'>
+<br><br><font size='150%'><b>Wonderful Toys</b></font><br><br>
+<i>Where does he get those wonderful toys?<br>-The Joker</i>
+<br><br>
+Working with your group, create a presentation .<br><br>
+<b>Requirements:</b><br>1) Show us what the platform can do<br>
+1a) So for example,  PowerPoint lets us show slides, images, audio, animations, or embed video<br>
+1b) You will want to DEMONSTRATE THIS IN ACTION - so don't just list what it can do, show us an example (doesn't have to be original - if you can find an extant example somewhere online, that's fine.) 
+<br><br>
+2) Give us some brief instructions on how to use the program (or how to create the poster, in the case of Jasmine and Libby)<br>
+2b) This should be a very quick introduction to how to actually use the platform, e.g., if you were teaching us about PowerPoint you might show us how to create slides and put images/video on them. 
+<br><br>
+3) Identify what kinds of research would be well-suited/poor for this platform (e.g., if you were researching the paintings of Michelangelo, using a Podcast wouldn't be a great idea; if you were researching Beethoven's music, however, a Podcast would be perfect!)<br><br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+
+<p id='majorTwo'>
+<br><br><font size='150%'><b>Warp Speed Level 1</b></font><br><br>
+<i>Engage<br>-Captain Jean Luc Picard</i>
+<br><br>
+On April 22nd, have your group email me a list of: </b><br>
+1) Where and how long you met (online is okay)<br>
+2) What you discussed<br>
+3) A link or attachment to your project so far<br><br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+
+<p id='majorThree'>
+<br><br><font size='150%'><b>Warp Speed Level 2</b></font><br><br>
+<i>No, Seriously. Engage.<br>-Captain Jean Luc Picard (probably)</i>
+<br><br>
+On April 24nd, have your group email me a list of: </b><br>
+1) Where and how long you met (online is okay)<br>
+2) What you discussed<br>
+3) A link or attachment to your project so far<br><br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+
+<p id='majorFour'>
+<br><br><font size='150%'><b>Warp Speed Level 3</b></font><br><br>
+<i>Can't this thing go any faster?<br></i>
+<br>
+On April 26th, have your group email me a list of: </b><br>
+1) Where and how long you met (online is okay)<br>
+2) What you disced<br>
+3) A link or attachment to your project so far<br><br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+<p id='epicOne'>
+<br><br><font size='150%'><b>The Long Farewell</b></font><br><br>
+<i>“My brother has his sword, King Robert has his warhammer and I have my mind...and a mind needs books as a sword needs a whetstone if it is to keep its edge. That's why I read so much Jon Snow.” <br>-Tyrion Lannister</i>
+<br><br>You and your grou will present to the class your completed, final "text." Choose a controversial topic you and your fellow groupmates want to defend and create a "text" using one of the platforms. You are to research the topic, create an argument, and then express that argument using the platform of your choice, e.g., If you want to argue that we should have stricter gun laws using reddit, you might create your own subreddit dedicated to your research and invite others to chime in (as reddit is designed to do).<br><br>
+<b>Requirements:</b><br>
+1) Create the document.<br>
+2) Present it.<br>
+3) Answer: WHY you chose the media you did and HOW it affected the argument you made.<br>
 <button class='backButton' onclick='quests()'>Back</button></p>
