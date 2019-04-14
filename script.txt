@@ -7,7 +7,11 @@ and lots of it!
 
 
 <p id='oldAnnouncement' class='old'>
-<b>02/20/2019</b><br><br>
+<b>03/13/2019</b><br>
+Hey all! New quests should be up and running! Give 'em a gander and let me know if you have any questions or suggestions!<br>
+-b
+<br><br>
+<b>02/20/2019</b><br>
 The official <b>due dates</b> for ALL Level 2 quests (excluding Escort Quests) is the Friday before Spring Break (03/08/2019). The only exceptions are <b>Wizened Sage, Pacifist Run, </b> and <b>Twelve Angry Men</b>.<br><br>
 Cheers!<br>
 -b
@@ -40,8 +44,8 @@ Cheers!<br>
 
 
 <p id='newAnnouncement' class='new'>
-<b>03/13/2019</b><br><br>
-Hey all! New quests should be up and running! Give 'em a gander and let me know if you have any questions or suggestions!<br>
+<b>04/14/2019</b><br><br>
+Hey all! New quests should be up and running! This time you have a lot less choice (i.e., no choice) because of how fast we're going to have get through all this! :(<br>
 -b
 
 </p>
