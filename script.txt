@@ -145,7 +145,7 @@ These goals will be achieved through play – literally and figuratively – as 
 <button class='majorQuestButtons' onclick='escort2()';> Broaden Your Horizons</button>
 <button class='majorQuestButtons' onclick='escort3()';> Start Something Big...</button>
 -->
-
+<p id='quests'>
 <br><br><b> <font size='200%'>Stage 4: Fusion</font>
 <br><br>
 <b>Major Quests (50 XP each)</b><br>
@@ -159,6 +159,8 @@ These goals will be achieved through play – literally and figuratively – as 
 <button class='majorQuestButtons' onclick='escort1()';> Recording History</button>
 <button class='majorQuestButtons' onclick='escort2()';> Broaden Your Horizons</button>
 <button class='majorQuestButtons' onclick='escort3()';> Start Something Big...</button>
+</p>
+
 <!--
 <p id='sideOne'>
 <br><br><font size='150%'><b>The Grind</b></font><br><br>
