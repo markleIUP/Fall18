@@ -594,8 +594,8 @@ Participate in the class debate.
 <button class='backButton' onclick='quests()'>Back</button></p>
 -->
 
-<!--
 <!--LEVEL 3-->
+<!--
 <p id='sideOne'>
 <br><br><font size='150%'><b>The Grind, Part Trois</b></font><br><br>
 <i>Wooho! Overtime! <br>SCV,</i> Starcraft iI
