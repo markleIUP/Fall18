@@ -758,11 +758,11 @@ Substantially revise your Dark Samus essay.
 <br><br>
 Working with your group, create a presentation .<br><br>
 <b>Requirements:</b><br>1) Show us what the platform can do<br>
-1a) So for example,  PowerPoint lets us show slides, images, audio, animations, or embed video<br>
-1b) You will want to DEMONSTRATE THIS IN ACTION - so don't just list what it can do, show us an example (doesn't have to be original - if you can find an extant example somewhere online, that's fine.) 
+<br>So for example,  PowerPoint lets us show slides, images, audio, animations, or embed video.
+You will want to DEMONSTRATE THIS IN ACTION - so don't just list what it can do, show us an example (doesn't have to be original - if you can find an extant example somewhere online, that's fine.) 
 <br><br>
-2) Give us some brief instructions on how to use the program (or how to create the poster, in the case of Jasmine and Libby)<br>
-2b) This should be a very quick introduction to how to actually use the platform, e.g., if you were teaching us about PowerPoint you might show us how to create slides and put images/video on them. 
+2) Give us some brief instructions on how to use the program (or how to create the poster, in the case of Jasmine and Libby)<br><br>
+This should be a very quick introduction to how to actually use the platform, e.g., if you were teaching us about PowerPoint you might show us how to create slides and put images/video on them. 
 <br><br>
 3) Identify what kinds of research would be well-suited/poor for this platform (e.g., if you were researching the paintings of Michelangelo, using a Podcast wouldn't be a great idea; if you were researching Beethoven's music, however, a Podcast would be perfect!)<br><br>
 <button class='backButton' onclick='quests()'>Back</button></p>
