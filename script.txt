@@ -144,6 +144,7 @@ These goals will be achieved through play – literally and figuratively – as 
 <button class='majorQuestButtons' onclick='escort1()';> Recording History</button>
 <button class='majorQuestButtons' onclick='escort2()';> Broaden Your Horizons</button>
 <button class='majorQuestButtons' onclick='escort3()';> Start Something Big...</button>
+</p>
 -->
 <p id='quests'>
 <br><br><b> <font size='200%'>Stage 4: Fusion</font>
