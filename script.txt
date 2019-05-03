@@ -153,7 +153,9 @@ These goals will be achieved through play – literally and figuratively – as 
 <button class='majorQuestButtons' onclick='major1()';> Wonderful Toys</button>
 <button class='majorQuestButtons' onclick='major2()';> Warp Speed Level 1</button>
 <button class='majorQuestButtons' onclick='major3()';> Warp Speed Level 2</button>
-<button class='majorQuestButtons' onclick='major4()';> Warp Speed Level 3</button><br><br>
+<button class='majorQuestButtons' onclick='major4()';> Warp Speed Level 3</button><br>
+<button class='majorQuestButtons' onclick='major5()';> It's the End of the World as We Know It...</button>
+<br><br>
 <b>Epic Quest (300 XP)</b><br>
 <button class='questButtons' onclick='epic1()';> The Long Farewell</button><br><br><br>
 <b>Escort Quests (100 XP each, may only attempt ONE Escort Quest per semester)</b><br>
@@ -798,6 +800,32 @@ This should be a very quick introduction to how to actually use the platform, e.
 1) Where and how long you met (online is okay)<br>
 2) What you disced<br>
 3) A link or attachment to your project so far<br><br>
+<button class='backButton' onclick='quests()'>Back</button></p>
+
+<p id='majorFive'>
+<br><br><font size='150%'><b>It's The End of the World As We Know It...</b></font><br><br>
+<i>...and I feel fine.<br></i>
+<br>
+Musical lyrics is an oft-underappreciated form of writing, particularly in academia. So far, only Bob Dylan and Kendrick Lamar have been recognized as contributing to literature through their lyrics by the academic community at large. 
+<br><br>
+This is an optionally two part assignment. First, listen to any (or all) of the songs below, focusing on their lyrics. Write a one paragraph essay about any of them analyzing their lyrics and how they function in the song. Each paragraph you submit nets you ten points. 
+<br><br>
+Part Two: For each song you responded to, you may then offer your own suggestion based on the theme, musical, or literary quality of the song you listened to. Think of yourself as Spotify recommending a song based on what you listened to. Provide a link to the music and a paragraph explaining the lyrics of the song. Each paragraph you submit nets you ten points. 
+<br><br>
+If you respond to all five songs and recommend/analyze five you recommend, this quest is worth a possible total of up to 100 points.
+<br><br>
+In your response you should:<br>
+1) Discuss the literal meaning of the song.<br>
+2) Discuss any strong metaphors/figurative language.<br>
+3) Discuss how the feel of the music contributes to the theme.<br><br>
+
+The songs in question:<br>
+<a href = "https://www.youtube.com/watch?v=53sYL_VI89M"> Mos Def: Mathematics </a><br>
+<a href = "https://www.youtube.com/watch?v=O0YxeTjFn70'> Puscifer: The Humbling River </a><br>
+<a href = "https://www.youtube.com/watch?v=c52ElU5tQNo"> Billie Holiday: Strange Fruit</a><br>
+<a href = "https://www.youtube.com/watch?v=2uoG8yy5s78"> Tool: Lateralus</a><br>
+<a href = "https://www.youtube.com/watch?v=-oabzr9zWXU"> Aesop Rock: Kirby</a><br>
+
 <button class='backButton' onclick='quests()'>Back</button></p>
 
 <p id='epicOne'>
