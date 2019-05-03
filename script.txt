@@ -806,7 +806,7 @@ This should be a very quick introduction to how to actually use the platform, e.
 <br><br><font size='150%'><b>It's The End of the World As We Know It...</b></font><br><br>
 <i>...and I feel fine.<br></i>
 <br>
-Musical lyrics is an oft-underappreciated form of writing, particularly in academia. So far, only Bob Dylan and Kendrick Lamar have been recognized as contributing to literature through their lyrics by the academic community at large. 
+Musical lyrics are an oft-underappreciated form of writing, particularly in academia. So far, only Bob Dylan and Kendrick Lamar have been recognized as contributing to literature through their lyrics by the academic community at large. 
 <br><br>
 This is an optionally two part assignment. First, listen to any (or all) of the songs below, focusing on their lyrics. Write a one paragraph essay about any of them analyzing their lyrics and how they function in the song. Each paragraph you submit nets you ten points. 
 <br><br>
@@ -821,7 +821,7 @@ In your response you should:<br>
 
 The songs in question:<br>
 <a href = "https://www.youtube.com/watch?v=53sYL_VI89M"> Mos Def: Mathematics </a><br>
-<a href = "https://www.youtube.com/watch?v=O0YxeTjFn70'> Puscifer: The Humbling River </a><br>
+<a href = "https://www.youtube.com/watch?v=O0YxeTjFn70"> Puscifer: The Humbling River </a><br>
 <a href = "https://www.youtube.com/watch?v=c52ElU5tQNo"> Billie Holiday: Strange Fruit</a><br>
 <a href = "https://www.youtube.com/watch?v=2uoG8yy5s78"> Tool: Lateralus</a><br>
 <a href = "https://www.youtube.com/watch?v=-oabzr9zWXU"> Aesop Rock: Kirby</a><br>
